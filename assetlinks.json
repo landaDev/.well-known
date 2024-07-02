@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.digital_wallet",
+    "package_name": "com.bancosol.altokeQA",
     "sha256_cert_fingerprints":
     ["20:87:7C:38:50:13:FC:C0:93:3B:E4:C6:84:36:71:1A:FC:61:A1:C9:25:00:92:7C:33:F6:A0:42:44:A1:62:68"]
   }
